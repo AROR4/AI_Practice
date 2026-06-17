@@ -1,0 +1,25 @@
+Presidio Insurance Solutions Portfolio - Google Doc Ref #GD-1024
+
+Status: Internal Reference Guide
+Last Updated: March 12, 2026
+
+## Overview
+Presidio offers specialized corporate and individual insurance policies. This document details our primary products and customer queries concerning them.
+
+1. Corporate Term Life Policy
+    Coverage**: Group life coverage for employees. Starts from $50,000 up to $500,000 per employee.
+    Key Feature**: No medical checkup required for coverages under $200,000.
+    Common Customer Query: "Can I keep my term life policy after leaving the company?"
+    Answer**: Yes, policies can be converted to individual policies within 31 days of leaving the employer.
+
+2. Health & Wellness Premium Plan
+    Coverage**: Comprehensive inpatient, outpatient, mental health, and dental coverage.
+    Key Feature**: 24/7 telehealth access with $0 copay.
+    Common Customer Query: "Is mental health counseling covered?"
+    Answer: Yes, up to 20 therapy sessions per calendar year are covered at 100%. Subsequent sessions require a $15 copay.
+
+3. General Cyber Liability Insurance
+    Coverage**: Protection against data breaches, ransomware, and cyberattacks.
+    Key Feature**: Immediate access to our incident response unit within 2 hours of breach notification.
+    Common Customer Query: "Does this cover physical theft of laptops?"
+    Answer**: Yes, if the laptop was encrypted and the theft is reported to the police within 24 hours.

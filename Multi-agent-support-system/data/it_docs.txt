@@ -1,0 +1,17 @@
+VPN Setup:
+
+1. Install Cisco AnyConnect
+2. Login with company credentials
+3. Connect to VPN
+
+Approved Software:
+
+- Visual Studio Code
+- Docker Desktop
+- Postman
+- Microsoft Teams
+
+Laptop Request:
+
+Submit a ticket through Service Portal.
+Manager approval required.
