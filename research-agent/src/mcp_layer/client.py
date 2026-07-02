@@ -1,23 +1,14 @@
-from mcp_layer.providers.mock_provider import (
-    MockProvider
+from mcp_layer.providers.google_docs_provider import (
+    GoogleDocsProvider
 )
-
-# Future
-# from mcp_layer.providers.google_docs_provider import (
-#     GoogleDocsProvider
-# )
 
 
 class MCPClient:
 
     def __init__(self):
 
-        self.provider = (
-            MockProvider()
-        )
+        self.provider = GoogleDocsProvider()
 
-        # Future
-        # self.provider = GoogleDocsProvider()
 
     def search(
         self,
